@@ -1,2 +1,2 @@
-# OnetCloud
-Onet puzzle running in cloud
+# OnetConectGame
+This is my Onet Connect puzzle game 
